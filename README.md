@@ -1,6 +1,6 @@
 ### :coffee: starbucks crolling project
 
-- map_StarBucks.html<br>
+-map_StarBucks.html<br>
 :heavy_check_mark: 스타벅스 매장(서울,경기)을 마크로 표시한 시각화 파일.<br>
 
 -starbuck_map_geo.dbf<br>
